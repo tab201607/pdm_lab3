@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\Debug\Prelaboratorio3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Prelaboratorio3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Prelaboratorio3.map</FILE>
+  <FILE>Prelaboratorio3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>25</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>99</LINE></ISR_PCINT0>
+  <Setup><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>37</LINE></Setup>
+  <Loop><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>75</LINE></Loop>
+  <delay><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>86</LINE></delay>
+  <delayouter><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>88</LINE></delayouter>
+  <delayinner><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>90</LINE></delayinner>
+  <decremento><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Prelaboratorio3\Prelaboratorio3\main.asm</FILE><LINE>108</LINE></decremento>
+ </LABELS>
+</ASSEMBLER_INFO>
