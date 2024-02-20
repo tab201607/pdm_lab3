@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\Debug\Laboratorio3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio3.map</FILE>
+  <FILE>Laboratorio3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>29</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>145</LINE></ISR_PCINT0>
+  <ISR_TIMR0><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>165</LINE></ISR_TIMR0>
+  <tabla7seg><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>38</LINE></tabla7seg>
+  <Setup><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>44</LINE></Setup>
+  <timerinit><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>129</LINE></timerinit>
+  <Loop><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>97</LINE></Loop>
+  <delay><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>116</LINE></delay>
+  <delayouter><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>118</LINE></delayouter>
+  <delayinner><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>120</LINE></delayinner>
+  <decremento><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>154</LINE></decremento>
+  <endtimr0><FILE>C:\Users\kirby\Documents\Atmel Studio\7.0\PdM Lab 3\Laboratorio3\Laboratorio3\main.asm</FILE><LINE>178</LINE></endtimr0>
+ </LABELS>
+</ASSEMBLER_INFO>
